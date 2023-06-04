@@ -2,7 +2,7 @@
 /*CARD*/
 
 h5.card-title{
-    color: red; /*Cambio de color para los titulos de cada una de las imagenes*/
+    color: rgb(255, 0, 0); /*Cambio de color para los titulos de cada una de las imagenes*/
 }
 
 .card-img-top1{
