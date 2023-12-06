@@ -6,4 +6,4 @@ Donde se requiere realizar el index de una pagina web con ciertos parametros:
 *La inclusion breve de tres imagenes con una breve descripcion.
 *Añadir una seccion de adicionales donde se pueda evidenciar alguna informacion adicional acerca del emprendimiento.
 *Por ultimo añadir un footer que cuente con los derechos de autor y los logos de las redes sociales.
-https://larrynarvaez.github.io/Pizzatime/
+[https://larrynarvaez.github.io/Pizzatime/](https://larrynarvaez.github.io/PROYECTO-1-LANDING-PAGE/)
